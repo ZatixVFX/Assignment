@@ -11,8 +11,7 @@ System Development life cycle
 
 	Advatntages:
 - It is simple to use and understand.
-- It allows for departmentalization and managerial control.
-- Easy to manage due to the rigidity of the model – each phase has specific deliverables and a review process.
+- Easy to manage due to the rigidity of the model â€“ each phase has specific deliverables and a review process.
 - Phases are processed and completed one at a time.
 - Perfect for the small or mid-sized projects where requirements are clear and not equivocal.
 - The tasks remain as stable as possible throughout the development process.
@@ -40,5 +39,5 @@ System Development life cycle
 - Time consuming if requirement changes since they have to make change in the test documents.
 - Costlier approach.
 - Regular updates required if changes in the project are required.
-- Can’t be used in complex projects.
+- Canâ€™t be used in complex projects.
 - One the project is over its end.

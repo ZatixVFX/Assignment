@@ -1,0 +1,44 @@
+System Development life cycle
+* Planning and Requirements
+* Analysis
+* Design
+* Implementation or Coding
+* Testing
+* Deployment
+* Maintenance and Review
+
+ WaterFall Mehtodology:
+
+	Advatntages:
+- It is simple to use and understand.
+- It allows for departmentalization and managerial control.
+- Easy to manage due to the rigidity of the model – each phase has specific deliverables and a review process.
+- Phases are processed and completed one at a time.
+- Perfect for the small or mid-sized projects where requirements are clear and not equivocal.
+- The tasks remain as stable as possible throughout the development process.
+
+	Disadvantages:
+- All requirements must be known prior to development, which greatly delays the project kickoff.
+- High risks and uncertainty.
+- Not a good model for complex and object-oriented projects.
+- The progress of the stage is hard to measure while it is still in the development.
+- The client does not have the opportunity to get acquainted with the system in advance, so he does not see the product until the moment of its completion.
+- Integration is done at the very end, which does not give the option of identifying the problem in advance.
+
+ V-Model Methodology:
+
+	Advantages:
+- Covers all functional areas.
+- Review exists at each and every stage.
+- Simple and easy to use.
+- Parallel deliverables exists ie., two phases will be working at the same time.
+- Emphasizes the significance of testing and ensures that testing is planned.
+- When V-model is utilized then issues are found at the early level.
+
+	Disadvantages:
+- Very inflexible and lowest adaptable.
+- Time consuming if requirement changes since they have to make change in the test documents.
+- Costlier approach.
+- Regular updates required if changes in the project are required.
+- Can’t be used in complex projects.
+- One the project is over its end.
